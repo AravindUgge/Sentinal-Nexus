@@ -1,4 +1,4 @@
-# IoT Workplace Safety and Security Monitoring with Cloud Processing
+# IoT Workplace Safety and Security Monitoring with Cloud Processing(Sentinal Nexus)
 
 ## Introduction
 This project demonstrates the integration of cloud processing and monitoring capabilities to manage sensor data effectively. It highlights a system designed to collect sensor data, process it through cloud infrastructure, and visualize the results via a web interface.
@@ -18,12 +18,7 @@ This project demonstrates the integration of cloud processing and monitoring cap
 - **Cloud Services Utilization:** Utilizes various cloud services for data processing and storage.
 - **Visualization through Website Interface:** Showcases stored data visually via a website interface, enabling insights and informed decision-making.
 - **Analytics Tools Integration:** Incorporates analytics tools for data analysis, providing deeper insights.
-- **Raspberry Pi Control:** Demonstrates the system's capability to control the Raspberry Pi, triggering specific actions, highlighting its versatility and control over the IoT environment.
-
-**Contributors:**
-- AWS Design/Code and Raspberry Pi Hardware/Code: [Zion](https://github.com/ZionC27)
-- Website Development: Kenichi, Gustavo, Thien
-
+- **Raspberry Pi Control:** Demonstrates the system's capability to control the Raspberry Pi, triggering specific actions, highlighting its versatility and control over the IoT environmen
 
 ## System Overview
 ### Hardware/System
